@@ -43,7 +43,7 @@
 <a href="https://www.instagram.com/pmayuda" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mayara-soares-32207218a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif">
 </div>  
   
   ![snake gif](https://github.com/Pmayuda/Pmayuda/blob/output/github-contribution-grid-snake.svg)
