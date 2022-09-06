@@ -46,4 +46,4 @@
 
 </div>  
   
-  ![snake gif](https://github.com/Pmayuda/pmayuda/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Pmayuda/Pmayuda/blob/output/github-contribution-grid-snake.svg)
